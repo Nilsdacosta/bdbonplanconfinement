@@ -17,10 +17,11 @@
             <div class="divTitre">
                 <!-- Titre que tu veux -->
                 <h1 class="titre">Bon Plan : Les BD gratuites du Confinement ! </h1>
+                <img class="momieLogo" src="image/momieLogo.png" alt="">
             </div>
             <div class="divExplicatif container">
                 <!-- texte explicatif -->
-                <p class="explicatif"> Vous arrivez au bout de vos lectures ? Pas de panique ! Les éditeurs de Mangas et de BD ont pensé à vous ! Depuis le début de ce confinement, de nombreuses initiatives se sont développées afin de vous donner accés à de superbes lectures, gratuitement, en attendant la réouverture de vos librairies préférées ! Et comme dans la Team Momie on est super sympas, nous vous avons regroupé juste ici bon nombre d'entre elles ! Nous mettrons cette page à jour régulièrement, n'hésitez pas à revenir la consulter !</p>
+                <p class="explicatif"> Vous arrivez au bout de vos lectures ? Pas de panique ! Les éditeurs de Mangas et de BD ont pensé à vous ! Depuis le début de ce confinement, de nombreuses initiatives se sont développées afin de vous donner accès à de superbes lectures, gratuitement, en attendant la réouverture de vos librairies préférées ! Et comme dans la Team Momie on est super sympas, nous vous avons regroupé juste ici bon nombre d'entre elles ! Nous mettrons cette page à jour régulièrement, n'hésitez pas à revenir la consulter !</p>
             </div>
         </header>
         <div class="container">
@@ -93,7 +94,7 @@
                     <div class="card " style="width: 18rem;">
                         <!-- dans src="Mettre le lien de l'image : image/nomImage.extension" -->
                         <div class="divImage">
-                            <img src="image/urban-comics-500x500.png" class="image card-img-top" alt="">
+                            <img src="image/urban-comics.png" class="image card-img-top" alt="">
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Urban Comics</h5>
@@ -182,7 +183,7 @@
                     <div class="card" style="width: 18rem;">
                         <!-- dans src="Mettre le lien de l'image : image/nomImage.extension" -->
                         <div class="divImage">
-                            <img src="image/unnamed (1).png" class="image card-img-top" alt="">
+                            <img src="image/akata.png" class="image card-img-top" alt="">
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Akata</h5>
@@ -197,7 +198,7 @@
                      <div class="card" style="width: 18rem;">
                         <!-- dans src="Mettre le lien de l'image : image/nomImage.extension" -->
                         <div class="divImage">
-                            <img src="image/Cs20yunj_400x400.jpg" class="image card-img-top" alt="">
+                            <img src="image/kana.jpg" class="image card-img-top" alt="">
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Kana</h5>
