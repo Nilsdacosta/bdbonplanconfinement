@@ -20,7 +20,7 @@
             </div>
             <div class="divExplicatif container">
                 <!-- texte explicatif -->
-                <p class="explicatif"> Vous arrivez au bout de vos lectures ? Pas de panique ! Les éditeurs de Mangas et de BD ont pensé à vous ! Depuis le début de ce confinement, de nombreuses initiatives se sont développées afin de vous donner accées à de superbes lectures, gratuitement, en attendant la réouverture de vos librairies préférées ! Et comme dans la Team Momie on est super sympas, nous vous avons regroupé juste ici bon nombre d'entre elles ! Nous mettrons cette page à jour régulièrement, n'hésitez pas à revenir la consulter !</p>
+                <p class="explicatif"> Vous arrivez au bout de vos lectures ? Pas de panique ! Les éditeurs de Mangas et de BD ont pensé à vous ! Depuis le début de ce confinement, de nombreuses initiatives se sont développées afin de vous donner accés à de superbes lectures, gratuitement, en attendant la réouverture de vos librairies préférées ! Et comme dans la Team Momie on est super sympas, nous vous avons regroupé juste ici bon nombre d'entre elles ! Nous mettrons cette page à jour régulièrement, n'hésitez pas à revenir la consulter !</p>
             </div>
         </header>
         <div class="container">
