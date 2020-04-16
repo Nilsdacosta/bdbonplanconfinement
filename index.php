@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-153101071-2"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-153101071-2');
+        </script>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Bon Plan : Les BD gratuites du Confinement !</title>
@@ -78,6 +87,20 @@
                         </div>
                     </div>
 
+                    <!-- ---------MAJ----------- -->
+                    <div class="card" style="width: 18rem;">
+                        <!-- dans src="Mettre le lien de l'image : image/nomImage.extension" -->
+                        <div class="divImage">
+                            <img src="image/delcourt.png" class="image card-img-top" alt="">
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Delcourt Soleil</h5>
+                            <p class="card-text">Les édition Soleil et Delcourt vous offrent des lectures gratuites ! C’est l’occasion de découvrir les plateformes spécialisés en BD numériques ! <br> <b>Le Coup de Coeur Momie :</b> <i>Le grand Méchant Renard. </i>Benjamin Renner. </p>
+                            <!-- dans href="Mettre le lien du site" -->
+                            <a href="https://www.editions-delcourt.fr/actus/news/les-editions-delcourt-vous-proposent-de-la-lecture-numerique-gratuite.html" class="btn btn-warning">Lien vers le site</a>
+                        </div>
+                    </div> 
+
                     <div class="card" style="width: 18rem;">
                         <!-- dans src="Mettre le lien de l'image : image/nomImage.extension" -->
                         <div class="divImage">
@@ -118,6 +141,19 @@
                             <a href="https://www.bliss-editions.com/gratuit-integrales-valiant/" class="btn btn-warning">Lien vers le site</a>
                         </div>
                     </div>
+
+                    <div class="card" style="width: 18rem;">
+                        <!-- dans src="Mettre le lien de l'image : image/nomImage.extension" -->
+                        <div class="divImage">
+                            <img src="image/rueDeSevre.png" class="image card-img-top" alt="">
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Rue de Sèvres</h5>
+                            <p class="card-text">Une nouvelle BD gratuite toutes les semaines sur le site de Rues de Sèvres ! Découvrez aussi des avant-premières et des coulisses ! On est fan ! <br> <b>Le Coup de Coeur Momie :</b> <i>Bjorn le Morphir, </i>Lavachery Gilbert. </p>
+                            <!-- dans href="Mettre le lien du site" -->
+                            <a href="https://www.editions-ruedesevres.fr/atelier-rue-de-sèvres" class="btn btn-warning">Lien vers le site</a>
+                        </div>
+                    </div> 
 
                     <!-- --Colle ci-dessous-- -->
                     <div class="card" style="width: 18rem;">
@@ -194,19 +230,88 @@
                         </div>
                     </div>
 
-                     <!-- -------------------- -->
-                     <div class="card" style="width: 18rem;">
+                    <!-- -------------------- -->
+                    <div class="card" style="width: 18rem;">
                         <!-- dans src="Mettre le lien de l'image : image/nomImage.extension" -->
                         <div class="divImage">
                             <img src="image/kana.jpg" class="image card-img-top" alt="">
                         </div>
                         <div class="card-body">
                             <h5 class="card-title">Kana</h5>
-                            <p class="card-text">Opération confinement pour les éditions Kana ! Les premiers tomes de cinquantes Mangas sont disponibles gratuitements ! <br> <b>Le Coup de Coeur Momie :</b> <i>March comes in like a lion, </i>Chica Umino </p>
+                            <p class="card-text">Opération confinement pour les éditions Kana ! Les premiers tomes de cinquantes Mangas sont disponibles gratuitements ! <br> <b>Le Coup de Coeur Momie :</b> <i>March comes in like a lion, </i>Chica Umino. </p>
                             <!-- dans href="Mettre le lien du site" -->
                             <a href="https://www.kana.fr/operation-confinement-selection-de-series-kana/" class="btn btn-warning">Lien vers le site</a>
                         </div>
-                    </div>                    
+                    </div>
+                    
+                    <!-- ---------MAJ----------- -->
+                    <div class="card" style="width: 18rem;">
+                        <!-- dans src="Mettre le lien de l'image : image/nomImage.extension" -->
+                        <div class="divImage">
+                            <img src="image/kaze.png" class="image card-img-top" alt="">
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Kazé</h5>
+                            <p class="card-text">Découvrez les trois premiers tomes de nombreuses séries proposées par Kazé ! On compte sur vous pour venir acheter la suite en boutique ! ;) <br> <b>Le Coup de Coeur Momie :</b> <i>Rainbow, </i>George Abe. </p>
+                            <!-- dans href="Mettre le lien du site" -->
+                            <a href="http://manga.kaze.fr/index.php?option=com_k2&view=item&id=1017:restecheztoiaveckaze-kaze-meilleures-series-manga-gratuit-deuxieme-selection&Itemid=383#.XpeAH27VJhE" class="btn btn-warning">Lien vers le site</a>
+                        </div>
+                    </div>
+
+                    <div class="card" style="width: 18rem;">
+                        <!-- dans src="Mettre le lien de l'image : image/nomImage.extension" -->
+                        <div class="divImage">
+                            <img src="image/association.png" class="image card-img-top" alt="">
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">L’association</h5>
+                            <p class="card-text">Une partie de leur catalogue est accessible en numérique dont « La guerre d’Alan » d’Emmanuel Guibert (Grand Prix d’Angoulême 2020). En attendant, découvrez L’an 01 de Gébé Initialement publié entre 1971 et 1974 dans Charlie Hebdo Notamment ! </p>
+                            <!-- dans href="Mettre le lien du site" -->
+                            <a href="https://fr.calameo.com/read/0026427177f2d806867f0" class="btn btn-warning">Lien vers le site</a>
+                        </div>
+                    </div>
+
+                    <div class="card" style="width: 18rem;">
+                        <!-- dans src="Mettre le lien de l'image : image/nomImage.extension" -->
+                        <div class="divImage">
+                            <img src="image/cornelius.png" class="image card-img-top" alt="">
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Cornelius</h5>
+                            <p class="card-text">Vous ne connaissez pas Cornelius ? C’est le moment de faire votre culture en BD Indé ! Découvrez notamment Nicole, la revue de la maison d'édition ! </p>
+                            <!-- dans href="Mettre le lien du site" -->
+                            <a href="https://issuu.com/editionscornelius/docs/nicole4" class="btn btn-warning">Lien vers le site</a>
+                        </div>
+                    </div>
+
+                    <div class="card" style="width: 18rem;">
+                        <!-- dans src="Mettre le lien de l'image : image/nomImage.extension" -->
+                        <div class="divImage">
+                            <img src="image/atrabile.png" class="image card-img-top" alt="">
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Atrabile</h5>
+                            <p class="card-text">Les premiers titres du Grand Frederik Peeters dispo sur le site des éditions Atrabile !</p>
+                            <!-- dans href="Mettre le lien du site" -->
+                            <a href="https://atrabile.org/catalogue/livres/brendon-bellard/" class="btn btn-warning">Lien vers le site</a>
+                        </div>
+                    </div>
+
+                    <div class="card" style="width: 18rem;">
+                        <!-- dans src="Mettre le lien de l'image : image/nomImage.extension" -->
+                        <div class="divImage">
+                            <img src="image/rackham.png" class="image card-img-top" alt="">
+                        </div>
+                        <div class="card-body">
+                            <h5 class="card-title">Rackham</h5>
+                            <p class="card-text">C’est l’occasion de découvrir l’incroyable richesse des éditions Rackham ! Foncez, un nouveau titre mis en ligne tous les deux jours environ !  <br> <b>Le Coup de Coeur Momie :</b> <i>Cendres, </i>Alvaro Ortiz. </p>
+                            <!-- dans href="Mettre le lien du site" -->
+                            <a href="http://www.editions-rackham.com/des-livres-en-telechargement-libre/" class="btn btn-warning">Lien vers le site</a>
+                        </div>
+                    </div>
+
+
+
                 </div>
             </div>
 
